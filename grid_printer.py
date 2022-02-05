@@ -4,6 +4,7 @@ Update below functions with code to print different grids based on the input par
 NOTE: do not print anything besides the grid boxes in your functions.
 """
 
+# Hello
 
 # PART 1
 def print_grid1():
